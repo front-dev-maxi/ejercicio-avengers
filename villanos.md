@@ -2,4 +2,4 @@
 
 - Tanos
 - Boldemord
-- Dr. Destino
+- Capitan America
